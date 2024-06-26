@@ -24,6 +24,12 @@ will be two files:
 
 #### Machine Learning
 
-We will be first using t-SNE to visualise this dataset.
+We will be first using t-SNE to visualise this dataset. Then, we will use an ensemble machine learning technique to classify the samples.
 
-Notebook: [t-SNE](t-SNE-GenEx.ipynb)
+ - t-SNE Notebook: [t-SNE](t-SNE-GenEx.ipynb)
+ - Random Forest: [RF](RF.ipynb)
+ 
+#### Further reading
+
+ - [Wiki: Random Forest](https://en.wikipedia.org/wiki/Random_forest)
+
