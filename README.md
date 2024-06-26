@@ -26,4 +26,4 @@ will be two files:
 
 We will be first using t-SNE to visualise this dataset.
 
-
+Notebook: [t-SNE](t-SNE-GenEx.ipynb)
