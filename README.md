@@ -5,10 +5,10 @@ A simple ML tutorial for RNA-seq analysis (A high-school tutorial)
 
 Download the dataset and save it to the `data/` directory:
 
-`shell
+```shell
 cd ./data
 wget https://archive.ics.uci.edu/static/public/401/gene+expression+cancer+rna+seq.zip
-`
+```
 
 #### Machine Learning
 
